@@ -19,8 +19,8 @@ read -p "Dotfiles comitted. Do you want to push? (y/N)" -n 1 -r
 echo ""
 if [[ ! $REPLY =~ ^[Yy]$ ]]
 then
-    cd cwd
+    cd $cwd
     exit 1
 fi
 git push
-cd cwd
+cd $cwd

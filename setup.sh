@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Links
-BREWFILE = "https://gist.githubusercontent.com/cameronshemilt/fd5a8cc4ba8f0b4f1b8347a0acc02fc4/raw/Brewfile"
-BASH_PROFILE = "https://gist.githubusercontent.com/cameronshemilt/fd5a8cc4ba8f0b4f1b8347a0acc02fc4/raw/.bash_profile"
-SSH_CONFIG = "https://gist.githubusercontent.com/cameronshemilt/fd5a8cc4ba8f0b4f1b8347a0acc02fc4/raw/config"
-MAC_DEFAULTS = "https://gist.githubusercontent.com/cameronshemilt/fd5a8cc4ba8f0b4f1b8347a0acc02fc4/raw/mac_defaults.sh"
-FURTHER_STEPS = "https://gist.github.com/cameronshemilt/fd5a8cc4ba8f0b4f1b8347a0acc02fc4#further-steps"
+BREWFILE = "https://raw.githubusercontent.com/cameronshemilt/dotfiles/main/Brewfile"
+BASH_PROFILE = "https://raw.githubusercontent.com/cameronshemilt/dotfiles/main/bash_profile"
+SSH_CONFIG = "https://raw.githubusercontent.com/cameronshemilt/dotfiles/main/config"
+MAC_DEFAULTS = "https://raw.githubusercontent.com/cameronshemilt/dotfiles/main/mac_defaults.sh"
+FURTHER_STEPS = "https://github.com/cameronshemilt/dotfiles#further-steps"
 
 
 echo "Starting Mac Setup"
