@@ -1,0 +1,13 @@
+Host *
+      IdentitiesOnly yes
+      ServerAliveInterval 15
+
+Host tum
+  HostName lxhalle.in.tum.de
+  User shemilt
+  IdentityFile /Users/cameronshemilt/.ssh/id_rsa
+
+Host stabi
+  HostName 46.101.131.248
+  User cameron
+  IdentityFile /Users/cameronshemilt/.ssh/id_rsa
