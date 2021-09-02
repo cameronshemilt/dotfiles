@@ -13,6 +13,7 @@ defaults write com.apple.dock "mineffect" -string "suck"
 defaults write com.apple.screencapture "disable-shadow" -bool "true"
 defaults write com.apple.TextEdit "RichText" -bool "false" && killall TextEdit
 defaults write com.apple.LaunchServices LSQuarantine -bool false
+defaults write -g AppleReduceDesktopTinting -bool true
 
 defaults write com.apple.dock wvous-tl-corner -int 4
 defaults write com.apple.dock wvous-tl-modifier -int 0

@@ -54,6 +54,15 @@ echo "Updating Bash Version"
 echo "/usr/local/bin/bash" | sudo tee -a /etc/shells
 chsh -s /usr/local/bin/bash
 
+# Set global gitignore
+cd
+mkdir .config
+cd .config
+mkdir git
+cd git
+echo ".DS_Store" >> ignore
+cd
+
 # Oter Stuff
 cd
 touch .hushlogin
