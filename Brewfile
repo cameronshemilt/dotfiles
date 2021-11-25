@@ -23,7 +23,6 @@ cask "font-jetbrains-mono"
 cask "github"
 cask "google-chrome"
 cask "iina"
-cask "nightowl"
 cask "obsidian"
 cask "qlmarkdown"
 cask "quicklook-json"
@@ -31,6 +30,7 @@ cask "raycast"
 cask "sensei"
 cask "sf-symbols"
 cask "spotify"
+cask "steam"
 cask "texpad"
 cask "typora"
 cask "visual-studio-code"
@@ -38,7 +38,6 @@ cask "zoom"
 mas "AC Widget", id: 1562025981
 mas "Accelerate", id: 1459809092
 mas "Developer", id: 640199958
-mas "GarageBand", id: 682658836
 mas "Grammarly for Safari", id: 1462114288
 mas "Hush", id: 1544743900
 mas "iMovie", id: 408981434
@@ -47,5 +46,6 @@ mas "Notability", id: 360593530
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Spark", id: 1176895641
+mas "TestFlight", id: 899247664
 mas "WhatsApp", id: 1147396723
 mas "Xcode", id: 497799835
