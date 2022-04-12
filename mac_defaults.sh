@@ -22,6 +22,8 @@ defaults write com.apple.dock wvous-tr-modifier -int 0
 defaults write com.apple.dock wvous-bl-corner -int 5
 defaults write com.apple.dock wvous-bl-modifier -int 0
 
+defaults write com.apple.dt.Xcode ShowBuildOperationDuration YES
+
 # sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "MESSAGE HERE"
 
 killall Dock
