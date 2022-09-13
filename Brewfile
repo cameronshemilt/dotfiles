@@ -28,7 +28,6 @@ cask "github"
 cask "google-chrome"
 cask "intellij-idea"
 cask "obsidian"
-cask "parallels"
 cask "qlmarkdown"
 cask "quicklook-json"
 cask "raycast"
@@ -42,16 +41,18 @@ cask "typora"
 cask "visual-studio-code"
 cask "xcodes"
 cask "zoom"
-mas "Accelerate", id: 1459809092
+mas "AC Widget", id: 1562025981
 mas "Bakery", id: 1575220747
+mas "Couverture", id: 1552415914
+mas "DevCleaner", id: 1388020431
 mas "Developer", id: 640199958
 mas "Grammarly for Safari", id: 1462114288
 mas "Hush", id: 1544743900
-mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Notability", id: 360593530
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Pastel", id: 413897608
 mas "RocketSim", id: 1504940162
 mas "Spark", id: 1176895641
 mas "TestFlight", id: 899247664
